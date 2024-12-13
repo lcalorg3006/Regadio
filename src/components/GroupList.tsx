@@ -1,4 +1,3 @@
-// src/components/GroupList.tsx
 import React from 'react';
 import { FlatList, View, Text } from 'react-native';
 import GroupItem from './GroupItem';

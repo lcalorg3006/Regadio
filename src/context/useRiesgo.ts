@@ -1,4 +1,3 @@
-// src/context/useRiego.ts
 import { useContext } from 'react';
 import { RiegoContext } from './RiesgoContext';
 

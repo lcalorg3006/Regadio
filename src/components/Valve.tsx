@@ -1,4 +1,3 @@
-// src/components/Valve.tsx
 import React from 'react';
 import { View, Text, Switch, StyleSheet } from 'react-native';
 import { Value } from '../interfaces/ValveInterface';
